@@ -1,2 +1,3 @@
 # INRODUCTION
-This is my first git repository.
+THIS IS MY FIRST REPOSITORY .
+NAME: ADITYA KUMAR DAS 
